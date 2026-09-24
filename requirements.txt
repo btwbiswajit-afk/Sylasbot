@@ -1,0 +1,6 @@
+aiohttp
+gTTS
+edge-tts
+telethon
+python-telegram-bot
+yt-dlp
